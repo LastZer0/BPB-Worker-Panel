@@ -5,10 +5,10 @@ interface WarpKeys {
 
 const defaultWarpAccounts: WarpAccount[] = [
     {
-        privateKey: "sBmQVHEywGAKQ8Ratzo/f5OUCa7MSozZpz1JK2PSVXE=",
+        privateKey: "CO8etftiZMJJq2WEITjs0wyCJbmTTeaEjHWw30RdrG8=",
         publicKey: "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-        warpIPv6: "2606:4700:110:8dd8:de5f:9a89:bfac:749c/128",
-        reserved: "59nK"
+        warpIPv6: "2606:4700:110:8d11:7d53:3db5:e28f:404/128",
+        reserved: "SBUi"
     },
     {
         privateKey: "OPiD4dePq8652DICknJsTJS4UH0FoWY1ffOZzZhIsUs=",
